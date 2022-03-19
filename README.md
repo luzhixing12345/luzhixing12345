@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭I’m currently learning C++ and python and javascript
 - 📫 How to reach me: 
   - QQ: 1269185526
   - email: luzhixing12345@163.com 
