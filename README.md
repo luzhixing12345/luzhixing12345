@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: QQ 1269185526
+- 🌱 bilibili: kami陆(some videos based on projects and my life)
+- 💬 Ask me about anything you like, I would like to tell you everything I know and learn everything I don't know.
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=luzhixing12345&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzhixing12345&hide_border=true">
+
