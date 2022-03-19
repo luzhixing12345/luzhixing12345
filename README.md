@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: QQ 1269185526
-- 🌱 bilibili: kami陆(some videos based on projects and my life)
+- 📫 How to reach me: 
+  - QQ: 1269185526
+  - email: luzhixing12345@163.com 
+- 🌱 social media accounts: 
+  - bilibili: kami陆(some videos based on projects and my life)
+  - 知乎: 终究慎独(一些技术博客之类的)
 - 💬 Ask me about anything you like, I would like to tell you everything I know and learn everything I don't know.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=luzhixing12345&show_icons=true&hide_border=true">
