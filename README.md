@@ -22,6 +22,18 @@ Here are some ideas to get you started:
   - 知乎: 终究慎独(一些技术博客之类的)
 - 💬 Ask me about anything you like, I would like to tell you everything I know and learn everything I don't know.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=luzhixing12345&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzhixing12345&hide_border=true">
 
+<!-- GitHub数据统计 -->
+<div >
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=luzhixing12345&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzhixing12345&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+
+<!--END_SECTION:waka-->
+
+</tr>
+</table>
+
+<!-- GitHub Activity Graph -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=luzhixing12345&theme=xcode" /></div>
