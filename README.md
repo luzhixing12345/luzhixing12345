@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   - email: luzhixing12345@163.com 
 - 🌱 social media accounts: 
-  - bilibili: kami陆(some videos based on projects and my life)
-  - 知乎: 终究慎独(一些技术博客之类的)
+  - bilibili: [kami陆](https://space.bilibili.com/261543088?spm_id_from=333.1007.0.0)
+  - 知乎: [终究慎独](https://www.zhihu.com/people/lu-zhi-xing-66-64)
 - 💬 Ask me about anything you like, I would like to tell you everything I know and learn everything I don't know.
 
 
