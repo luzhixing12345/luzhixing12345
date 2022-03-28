@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭I’m currently learning C++ and python and javascript
 - 📫 How to reach me: 
-  - QQ: 1269185526
   - email: luzhixing12345@163.com 
 - 🌱 social media accounts: 
   - bilibili: kami陆(some videos based on projects and my life)
