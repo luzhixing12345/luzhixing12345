@@ -7,7 +7,7 @@ I'm a CS student in Wuhan University
   - luzhixing12345@163.com 
 - 🌱 social media accounts: 
 
-  - [bilibili](https://space.bilibili.com/261543088?spm_id_from=333.1007.0.0)
+  - [bilibili](https://space.bilibili.com/261543088)
   - [zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64)
 
 - 🌐 [my blog](https://luzhixing12345.github.io/)
