@@ -23,5 +23,4 @@ I'm a CS student in Wuhan University
 
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=luzhixing12345&theme=xcode" /></div>
-
+<div align="center"><a href="http://www.github.com/luzhixing12345"><img src="https://activity-graph.herokuapp.com/graph?username=luzhixing12345&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
