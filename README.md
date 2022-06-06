@@ -2,6 +2,8 @@
 
 I'm a CS student in Wuhan University
 
+<!-- 生成图片见https://metrics.lecoq.io/ -->
+  
 - 🔭 I’m currently learning C++ python and javascript
 - 📫 How to reach me: 
   - luzhixing12345@163.com 
@@ -12,8 +14,7 @@ I'm a CS student in Wuhan University
 
 - 🌐 [my blog](https://luzhixing12345.github.io/)
 
-
-<!-- 这里说明几点，关于下方的卡牌参考[README 中获取动态生成的 GitHub 统计信息](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md),修改为你自己的即可 -->
+<!-- 参考[README 中获取动态生成的 GitHub 统计信息](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md),修改为你自己的即可 -->
 
 <!-- GitHub数据统计 -->
 <div >
@@ -23,4 +24,6 @@ I'm a CS student in Wuhan University
 
 
 <!-- GitHub Activity Graph -->
-<div align="center"><a href="http://www.github.com/luzhixing12345"><img src="https://activity-graph.herokuapp.com/graph?username=luzhixing12345&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center"><a href="http://www.github.com/luzhixing12345"><img src="https://activity-graph.herokuapp.com/graph?username=luzhixing12345&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></div>
+
+![Metrics](https://metrics.lecoq.io/luzhixing12345?template=classic&isocalendar=1&followup=1&code=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FShanghai)
