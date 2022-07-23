@@ -26,4 +26,4 @@ I'm a CS student in Wuhan University
 <!-- GitHub Activity Graph -->
 <div align="center"><a href="http://www.github.com/luzhixing12345"><img src="https://activity-graph.herokuapp.com/graph?username=luzhixing12345&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></div>
 
-![Metrics](https://metrics.lecoq.io/luzhixing12345?template=classic&isocalendar=1&followup=1&code=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FShanghai)
+<!-- ![Metrics](https://metrics.lecoq.io/luzhixing12345?template=classic&isocalendar=1&followup=1&code=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FShanghai) -->
