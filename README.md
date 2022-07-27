@@ -1,18 +1,12 @@
 # Hi there 👋
 
-I'm a CS student in Wuhan University
+I'm a CS student in Wuhan University.
+
+I'm also a small UP in [Bilibili](https://space.bilibili.com/261543088).
+
+Visit my [blog](https://luzhixing12345.github.io/) or [Zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64) for some articles or check my [learning notes](https://github.com/learner-lu) for more.
 
 <!-- 生成图片见https://metrics.lecoq.io/ -->
-  
-- 🔭 I’m currently learning C++ python and javascript
-- 📫 How to reach me: 
-  - luzhixing12345@163.com 
-- 🌱 social media accounts: 
-
-  - [bilibili](https://space.bilibili.com/261543088)
-  - [zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64)
-
-- 🌐 [my blog](https://luzhixing12345.github.io/)
 
 <!-- 参考[README 中获取动态生成的 GitHub 统计信息](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md),修改为你自己的即可 -->
 
