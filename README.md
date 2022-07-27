@@ -2,9 +2,11 @@
 
 I'm a CS student in Wuhan University.
 
-I'm also a small UP in [Bilibili](https://space.bilibili.com/261543088).
+Welcome to:
 
-Visit my [blog](https://luzhixing12345.github.io/) or [Zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64) for some articles or check my [learning notes](https://github.com/learner-lu) for more.
+- Visit [Bilibili](https://space.bilibili.com/261543088) for some videos
+- Visit [blog](https://luzhixing12345.github.io/) or [Zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64) for some articles
+- Visit [learning notes](https://github.com/learner-lu) for some notes
 
 <!-- 生成图片见https://metrics.lecoq.io/ -->
 
