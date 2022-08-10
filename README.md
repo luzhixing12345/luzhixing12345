@@ -8,6 +8,8 @@ Welcome to:
 - Visit [blog](https://luzhixing12345.github.io/) or [Zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64) for some articles
 - Visit [learning notes](https://github.com/learner-lu) for some notes
 
+Email: luzhixing12345@163.com
+
 <!-- 生成图片见https://metrics.lecoq.io/ -->
 
 <!-- 参考[README 中获取动态生成的 GitHub 统计信息](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md),修改为你自己的即可 -->
