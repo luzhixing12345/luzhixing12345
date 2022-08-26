@@ -1,14 +1,21 @@
 # Hi there 👋
 
-I'm a CS student in Wuhan University.
+I'm a CS student in Wuhan University in China.
 
 Welcome to:
 
 - Visit [Bilibili](https://space.bilibili.com/261543088) for some videos
 - Visit [blog](https://luzhixing12345.github.io/) or [Zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64) for some articles
-- Visit [learning notes](https://github.com/learner-lu) for some notes
+- Visit [learner-lu](https://github.com/learner-lu) for some notes
 
 Email: luzhixing12345@163.com
+
+Interest:
+
+![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
+![](https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff)
 
 <!-- 生成图片见https://metrics.lecoq.io/ -->
 
