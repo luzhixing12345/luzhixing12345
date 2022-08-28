@@ -14,7 +14,7 @@ Interest:
 
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff)
-![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?logo=visual-studio-code&logoColor=fff)
 ![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff)
 
 <!-- 生成图片见https://metrics.lecoq.io/ -->
