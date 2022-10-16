@@ -8,9 +8,9 @@ Welcome to:
 - Visit [blog](https://luzhixing12345.github.io/) or [Zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64) for some articles
 - Visit [learner-lu](https://github.com/learner-lu) for some notes
 
-Email: luzhixing12345@163.com
+## Email: luzhixing12345@163.com
 
-Interest:
+## Interest:
 
 ![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
