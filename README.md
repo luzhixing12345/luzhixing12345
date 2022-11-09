@@ -5,8 +5,8 @@ I'm a CS student in Wuhan University in China.
 Welcome to:
 
 - Visit [Bilibili](https://space.bilibili.com/261543088) for some videos
-- Visit [blog](https://luzhixing12345.github.io/) or [Zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64) for some articles
-- Visit [learner-lu](https://github.com/learner-lu) for some notes
+- Visit [Blog](https://luzhixing12345.github.io/) or [Zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64) for some articles
+- Visit [Website](https://kamilu.top/) for some tools(building...)
 
 ## Email: luzhixing12345@163.com
 
