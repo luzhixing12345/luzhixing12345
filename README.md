@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm a CS student in Wuhan University in China.
+I'm a CS student in Wuhan University, National University of Defense Technology Postgraduate.
+
+Email: luzhixing12345@163.com
 
 Welcome to:
 
@@ -8,16 +10,14 @@ Welcome to:
 - Visit [Blog](https://luzhixing12345.github.io/) or [Zhihu](https://www.zhihu.com/people/lu-zhi-xing-66-64) for some articles
 - Visit [Website](https://kamilu.top/) for some tools(building...)
 
-## Email: luzhixing12345@163.com
-
 ## Interest:
 
 ![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff)
 
-![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?logo=visual-studio-code&logoColor=fff)
-![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff)
+<!-- ![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?logo=visual-studio-code&logoColor=fff)
+![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff) -->
 
 <!-- 生成图片见https://metrics.lecoq.io/ -->
 
