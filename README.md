@@ -1,19 +1,19 @@
 # Hi there 👋
 
-I'm a CS student in Wuhan University.
-
-Email: luzhixing12345@163.com
+Hi, I’m a computer science major from Wuhan University, China. My research interests are memory, network and driver.
 
 Welcome to:
 
-- Visit [Bilibili](https://space.bilibili.com/261543088) for some videos
+- Visit [Bilibili](https://space.bilibili.com/261543088)
 - Visit [Blog](https://luzhixing12345.github.io/)
-- Visit [Website](https://kamilu.top/) for some tools(building...)
+- Email luzhixing12345@163.com
 
-## Interest:
+## Interest
 
 ![](https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff)
-![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff)
+![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![](https://img.shields.io/badge/VMware-231f20?logo=VMware&logoColor=white)
 
 <!-- ![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?logo=visual-studio-code&logoColor=fff)
 ![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff) -->
@@ -21,6 +21,8 @@ Welcome to:
 <!-- 生成图片见https://metrics.lecoq.io/ -->
 
 <!-- 参考[README 中获取动态生成的 GitHub 统计信息](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md),修改为你自己的即可 -->
+
+## Activity
 
 <!-- GitHub数据统计 -->
 <div >
