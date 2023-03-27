@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I’m a computer science major from Wuhan University, China. My research interests are memory, network and driver.
+Hi, I’m a computer science major from Wuhan University, China. My research interests are operating system, compiler and network.
 
 Welcome to:
 
@@ -13,7 +13,6 @@ Welcome to:
 ![](https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![](https://img.shields.io/badge/VMware-231f20?logo=VMware&logoColor=white)
 
 <!-- ![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?logo=visual-studio-code&logoColor=fff)
 ![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff) -->
