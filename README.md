@@ -1,6 +1,8 @@
 # Hi there 👋
 
-Hi, I’m a computer science major from Wuhan University, China. My research interests are operating system, compiler and network.
+Hi, I’m a CS student graduated from Wuhan University, currently a graduate student at the National University of Defense Technology.
+
+My research interests are **operating system** and **compiler**.
 
 Welcome to:
 
