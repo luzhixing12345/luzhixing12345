@@ -4,11 +4,8 @@ Hi, I’m a CS student graduated from Wuhan University, currently a graduate stu
 
 My research interests are **operating system** and **compiler**.
 
-Welcome to:
-
-- Visit [Bilibili](https://space.bilibili.com/261543088)
-- Visit [Blog](https://luzhixing12345.github.io/)
-- Email luzhixing12345@163.com
+## Social Account
+[Video: [Bilibili](https://space.bilibili.com/261543088)] [Notes: [Blog](https://luzhixing12345.github.io/)] [Email: luzhixing12345@163.com]
 
 ## Interest
 
