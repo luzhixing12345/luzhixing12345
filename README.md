@@ -1,17 +1,23 @@
 # Hi there 👋
 
-Hi, I’m a CS student graduated from Wuhan University, currently a graduate student at the National University of Defense Technology.
+Hi, I’m a CS student graduated from [Wuhan University](https://www.whu.edu.cn/), currently a graduate student at the [National University of Defense Technology](https://www.nudt.edu.cn/).
 
-My research interests are **operating system** and **compiler**.
+My research interests are **operating system(kernel, vm, mm)** and **compiler(frontend, IR)**.
 
 ## Social Account
-[Video: [Bilibili](https://space.bilibili.com/261543088)] [Notes: [Blog](https://luzhixing12345.github.io/)] [Email: luzhixing12345@163.com]
 
-## Interest
+- [Bilibili](https://space.bilibili.com/261543088)
+- Email: luzhixing12345@163.com
 
-![](https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff)
+## Skill
+
+<!-- ![](https://img.shields.io/badge/Python-743ea2?logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) -->
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,linux&perline=3)](https://skillicons.dev)
+
+<!-- https://github.com/devicons/devicon -->
 
 <!-- ![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?logo=visual-studio-code&logoColor=fff)
 ![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff) -->
