@@ -15,9 +15,9 @@ My research interests are **operating system(kernel, vm, mm)** and **compiler(fr
 ![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) -->
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,rust,linux)](https://skillicons.dev)
 
-<!-- https://github.com/devicons/devicon -->
+<!-- https://github.com/tandpfun/skill-icons -->
 
 <!-- ![](https://img.shields.io/badge/-Visual%20Studio%20Code-22A7F2?logo=visual-studio-code&logoColor=fff)
 ![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff) -->
