@@ -1,13 +1,8 @@
 # Hi there 👋
 
-Hi, I’m a CS student graduated from [Wuhan University](https://www.whu.edu.cn/), currently a graduate student at the [National University of Defense Technology](https://www.nudt.edu.cn/).
+Hi, I’m a CS student graduated from [WHU](https://www.whu.edu.cn/), currently a graduate student at the [NUDT](https://www.nudt.edu.cn/).
 
-My research interests are **operating system(kernel, vm, mm)** and **compiler(frontend, IR)**.
-
-## Social Account
-
-- [Bilibili](https://space.bilibili.com/261543088)
-- Email: luzhixing12345@163.com
+My research interests are **operating system** and **software design**.
 
 ## Skill
 
@@ -25,6 +20,17 @@ My research interests are **operating system(kernel, vm, mm)** and **compiler(fr
 <!-- 生成图片见https://metrics.lecoq.io/ -->
 
 <!-- 参考[README 中获取动态生成的 GitHub 统计信息](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md),修改为你自己的即可 -->
+
+Highly experienced in C, Linux kernel development (emphasis on mm, KVM), QEMU
+
+Experience in Python, Rust, C++, Javascript & CSS
+
+Interested in language and compiler design and implementation
+
+## Social Account
+
+- [Bilibili](https://space.bilibili.com/261543088)
+- Email: luzhixing12345@163.com
 
 ## Activity
 
