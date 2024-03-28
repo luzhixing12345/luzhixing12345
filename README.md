@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I’m a CS student graduated from [WHU](https://www.whu.edu.cn/), currently a graduate student at the [NUDT](https://www.nudt.edu.cn/).
+Hi, I’m a CS student graduated from [WHU](https://www.whu.edu.cn/), currently a graduate student at [NUDT](https://www.nudt.edu.cn/).
 
 My research interests are **operating system** and **software design**.
 
@@ -10,7 +10,7 @@ My research interests are **operating system** and **software design**.
 ![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) -->
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,rust,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux,py,rust)](https://skillicons.dev)
 
 <!-- https://github.com/tandpfun/skill-icons -->
 
@@ -23,7 +23,7 @@ My research interests are **operating system** and **software design**.
 
 Highly experienced in C, Linux kernel development (emphasis on mm, KVM), QEMU
 
-Experience in Python, Rust, C++, Javascript & CSS
+Experienced in Python, Rust, C++, Javascript & CSS
 
 Interested in language and compiler design and implementation
 
