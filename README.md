@@ -2,7 +2,7 @@
 
 Hi, I’m a CS student graduated from [WHU](https://www.whu.edu.cn/), currently a graduate student at [NUDT](https://www.nudt.edu.cn/).
 
-My research interests are **operating system** and **software design**.
+My main research interests are in memory management for operating systems.
 
 ## Skill
 
@@ -23,7 +23,7 @@ My research interests are **operating system** and **software design**.
 
 Highly experienced in C, Linux kernel development (emphasis on mm, KVM), QEMU
 
-Experienced in Python, Rust, C++, Javascript & CSS
+Experienced in Python, Rust, C++, Javascript
 
 Interested in language and compiler design and implementation
 
