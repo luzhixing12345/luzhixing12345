@@ -10,7 +10,7 @@ My main research interests are in memory management for operating systems.
 ![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) -->
 
-[![My Skills](https://skillicons.dev/icons?i=c,linux,py,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux,py)](https://skillicons.dev)
 
 <!-- https://github.com/tandpfun/skill-icons -->
 
@@ -23,7 +23,7 @@ My main research interests are in memory management for operating systems.
 
 Highly experienced in C, Linux kernel development (emphasis on mm, KVM), QEMU
 
-Experienced in Python, Rust, C++, Javascript
+Experienced in Python
 
 Interested in language and compiler design and implementation
 
