@@ -2,7 +2,7 @@
 
 Hi, I’m a CS student graduated from [WHU](https://www.whu.edu.cn/), currently a graduate student at [NUDT](https://www.nudt.edu.cn/).
 
-My main research interests are in memory management for operating systems.
+I'm interested in OS, Storage and Network.
 
 ## Skill
 
@@ -10,7 +10,7 @@ My main research interests are in memory management for operating systems.
 ![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) -->
 
-[![My Skills](https://skillicons.dev/icons?i=c,linux,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux,py,go,rust)](https://skillicons.dev)
 
 <!-- https://github.com/tandpfun/skill-icons -->
 
@@ -21,11 +21,11 @@ My main research interests are in memory management for operating systems.
 
 <!-- 参考[README 中获取动态生成的 GitHub 统计信息](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md),修改为你自己的即可 -->
 
-Highly experienced in C, Linux kernel development (emphasis on mm, KVM), QEMU
-
-Experienced in Python
-
-Interested in language and compiler design and implementation
+- Highly experienced in C, I like it's simplicity.
+- Highly experienced in Linux kernel development, mm, cpu schedule, fs, see my [notes](https://luzhixing12345.github.io/klinux/)
+- Experienced in Python, most of my useful tools were created by python.
+- Not familar but Learning Go and Rust, I like modern language design.
+- Interested in language and compiler design and implementation
 
 ## Social Account
 
