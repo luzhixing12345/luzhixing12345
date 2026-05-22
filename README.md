@@ -22,10 +22,10 @@ I'm interested in OS, Storage and Network.
 <!-- 参考[README 中获取动态生成的 GitHub 统计信息](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md),修改为你自己的即可 -->
 
 - Highly experienced in C, I like it's simplicity.
-- Highly experienced in Linux kernel development, mm, cpu schedule, fs, see my [notes](https://luzhixing12345.github.io/klinux/)
+- Highly experienced in Linux kernel development, mm, cpu schedule, fs, see my [notes](https://luzhixing12345.github.io/klinux/).
 - Experienced in Python, most of my useful tools were created by python.
 - Not familar but Learning Go and Rust, I like modern language design.
-- Interested in language and compiler design and implementation
+- Interested in language and compiler design and implementation.
 
 ## Social Account
 
