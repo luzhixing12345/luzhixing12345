@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I’m a CS student graduated from [WHU](https://www.whu.edu.cn/), currently a graduate student at [NUDT](https://www.nudt.edu.cn/).
+Hi, I’m luzhixing, graduated from [WHU](https://www.whu.edu.cn/) (B.S.) and [NUDT](https://www.nudt.edu.cn/) (M.S.), currently working at Tencent
 
 I'm interested in OS, Storage and Network.
 
